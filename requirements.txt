@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+openmim
+opencv-python
+scikit-learn
+pandas
+numpy

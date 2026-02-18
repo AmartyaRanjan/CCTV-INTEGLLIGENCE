@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Videos
+*.mp4
+*.avi
+
+# Analytics Data
+*.csv
+
+# YOLO Models
+*.pt
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
