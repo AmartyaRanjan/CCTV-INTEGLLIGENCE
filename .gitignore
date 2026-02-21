@@ -1,21 +1,14 @@
-# Virtual Environment
+# Large binary files - too big for GitHub
+*.mp4
+*.pt
+*.zip
+
+# Python virtual environment
 venv/
 __pycache__/
-*.py[cod]
+*.pyc
+*.pyo
 
-# Videos
-*.mp4
-*.avi
-
-# Analytics Data
-*.csv
-
-# YOLO Models
-*.pt
-
-# IDE
-.vscode/
-.idea/
-
-# System
+# OS files
 .DS_Store
+Thumbs.db

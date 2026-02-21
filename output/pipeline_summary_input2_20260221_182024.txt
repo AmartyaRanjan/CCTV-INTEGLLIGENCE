@@ -1,0 +1,489 @@
+Classroom Analytics Report
+Session : Math_10AM
+Run     : input2_20260221_182024
+Date    : 2026-02-21 20:34
+============================================================
+Students tracked : 59
+Behavioral events: 28
+
+Per-Student Summary:
+------------------------------------------------------------
+
+Unknown  [ID_1]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+anamika  [ID_10]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : anamika was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_11]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_12]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_129]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_13]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+alok_patel  [ID_138]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : alok_patel was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_14]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_141]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_15]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_16]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_160]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_162]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_164]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+anamika  [ID_17]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : anamika was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_170]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_18]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_180]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+anamika  [ID_19]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : anamika was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_190]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_2]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+anshu_yadav  [ID_20]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : anshu_yadav was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_205]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+alok_patel  [ID_21]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : alok_patel was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+alok_patel  [ID_217]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : alok_patel was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_22]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_221]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_225]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_23]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_233]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+gracy_yadav  [ID_237]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : gracy_yadav was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_24]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_243]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_244]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_25]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_254]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+anshu_yadav  [ID_26]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : anshu_yadav was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_260]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_27]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_276]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_28]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_280]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_282]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+anamika  [ID_29]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : anamika was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+anamika  [ID_3]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : anamika was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_34]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_35]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+nanadana_singh  [ID_4]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : nanadana_singh was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+gracy_yadav  [ID_41]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : gracy_yadav was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+madhu_singh  [ID_5]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : madhu_singh was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Rajneesh_Tiwari  [ID_53]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Rajneesh_Tiwari was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_55]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_57]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+vandana_diwedi  [ID_6]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : vandana_diwedi was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_66]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_7]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_70]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_8]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+Unknown  [ID_9]
+  Attention       : 0.7
+  Participation   : medium
+  Data quality    : sufficient
+  Nudge type      : neutral
+  Summary         : Unknown was present during the session.
+  App message     : Steady session today. Consistent attendance and attention are the foundation of great learning. Keep showing up.
+
+============================================================
+Output files:
+  Events CSV     : output/events_input2_20260221_182024.csv
+  LLM Profiles   : output/llm_profiles_input2_20260221_182024.json
+  Recommendations: output/recommendations_input2_20260221_182024.json
+  This summary   : output/pipeline_summary_input2_20260221_182024.txt
